@@ -35,6 +35,7 @@ const Slide = ({ website }) => (
         )}
         {website && <h3>{website.subtitle}</h3>}
         {website && <p>{website.description}</p>}
+        {website && <a href={website.url}target="_blank" rel="noopener noreferrer">{website.url}</a>}
       </Words>
 
       <Mockup>
