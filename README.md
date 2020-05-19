@@ -1,1 +1,0 @@
-This is the sourcecode for my portfolio website, which I created with React, Styled Components and Gatsby.
